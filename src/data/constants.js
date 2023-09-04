@@ -217,8 +217,8 @@ export const education = [
     school: "Pasundan University, Bandung",
     date: "2018 - 2023",
     grade: "3.49",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    desc: "I graduated with a bachelor's degree at Pasundan University with a major in informatics engineering",
+    degree: "Strata 1 (S1)",
   },
 ];
 
