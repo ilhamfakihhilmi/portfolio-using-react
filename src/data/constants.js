@@ -1,11 +1,11 @@
 export const Bio = {
-  name: "Ilham fakih Hilmi",
+  name: "Ilham Fakih Hilmi",
   roles: ["Web Developer", "Android Developer", "UI/UX Designer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ilhamfakihhilmi",
   resume: "#",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/ilham-fakih-hilmi-965740231",
   twitter: "https://twitter.com/_hamming99",
   insta: "https://www.instagram.com/_hamming99",
   facebook: "https://www.facebook.com/ilhamfakihhilmii/",
